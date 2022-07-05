@@ -1,0 +1,4 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:cdp2022-plutus-project"
