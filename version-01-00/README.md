@@ -69,7 +69,7 @@ A single "integrated" emulator trace test plan consisting of **13** "test scenar
 
 The following are the endpoints/functions that facilitate the exexcution of the integrated scenarios: 
 
-https://github.com/ctlimctlim/cdp-final-project/blob/master/cdp2022-plutus-project-v01/presentation/Assoc-endpoints.md
+https://github.com/ctlimctlim/2022-plutus-project/blob/master/version-01-00/presentation/Assoc-endpoints.md
 
 ## Test Run Outcome
 
