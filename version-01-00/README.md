@@ -15,7 +15,7 @@
 
 - The below gives an graphical overview of the project itself..
 
-![alt text](https://github.com/ctlimctlim/cdp-final-project/blob/master/cdp2022-plutus-project-v01/presentation/Slide1.jpg?raw=true)
+![alt text](https://github.com/ctlimctlim/2022-plutus-project/blob/master/version-01-00/presentation/Slide1.jpg?raw=true)
 
 
 ## Project Files
@@ -28,7 +28,7 @@
 - src/Apps/CtSchema.hs        - definitions of schemas and endpoints
 
 * NOTE: the project contains are developed from scratch and codes that are modified from previous codes that made available in the course itself. See under section: - ASSOCIATED ENDPOINTS / FUNCTIONS  
-https://github.com/ctlimctlim/cdp-final-project/tree/master/cdp2022-plutus-project-v01#associated-endpoints--functions
+https://github.com/ctlimctlim/2022-plutus-project/tree/master/version-01-00#associated-endpoints--functions
 
 ## Test Plan:
 A single "integrated" emulator trace test plan consisting of **13** "test scenarios" is formulated to demonstrate a start to end workflow of an NFT sale.
@@ -75,11 +75,11 @@ https://github.com/ctlimctlim/cdp-final-project/blob/master/cdp2022-plutus-proje
 
 The documentation of that out come can be found in the below link.  In order to see that each scenarios are properly and accurately executed, the test was "broken up then integrating the next scenario" so that the changes of wallets items resulting from each subseuquent scenrios can be oberved and analysed.
 
-https://github.com/ctlimctlim/cdp-final-project/blob/master/cdp2022-plutus-project-v01/presentation/PlutusTestv10outcome-breakdown.md
+https://github.com/ctlimctlim/2022-plutus-project/blob/master/version-01-00/presentation/PlutusTestv10outcome-breakdown.md
 
 The complete run of the program and the outcome can be found here:
 
-https://github.com/ctlimctlim/cdp-final-project/blob/master/cdp2022-plutus-project-v01/presentation/PlutusTestv10outcome-full.md
+https://github.com/ctlimctlim/2022-plutus-project/blob/master/version-01-00/presentation/PlutusTestv10outcome-full.md
 
 ## Future enhancements and final thoughts
 
